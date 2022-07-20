@@ -1,5 +1,4 @@
-# Pintei a casa de vermelho e verde!
-
+# Casa Verde
 Estamos aprendendo a mexer em repositórios remotos!
 
 - Adicionar arquivos
